@@ -2,13 +2,13 @@
 title: University of Maryland
 course_name: Algorithms, Data Structures and Inference for High-Throughput Genomics 
 course_description: "This course will focus on recent algorithmic, data structural, and statistical advances in methods for analyzing high-throughput sequencing data. Topics will include, but are not limited to : data structures for indexing genomes, collections of genomes, and collections of experimental data, succinct data structures, kmerology, algorithms for short and long read DNA-seq and RNA-seq alignment, probabilistic modeling of sequencing experiments and related inference techniques."
-course_semester: "Fall 2019"
+course_semester: "Fall 2020"
 description: |
     Instructor: Rob Patro
 
-message: Register to our <a href="http://www.piazza.com/umd/fall2019/cmsc858d">Piazza page</a> to get announcements via e-mail.
-baseurl: "/CMSC858D" # the subpath of your site, e.g. /blog/
-url: "https://rob-p.github.io/CMSC858D" # the base hostname & protocol for your site
+message: Register to our <a href="http://www.piazza.com/umd/fall2020/cmsc858d">Piazza page</a> to get announcements via e-mail.
+baseurl: "/CMSC858D_F20" # the subpath of your site, e.g. /blog/
+url: "https://rob-p.github.io/CMSC858D_F20" # the base hostname & protocol for your site
 # githubdir: "rob-p/CMSC858D"
 
 # Author/user information
