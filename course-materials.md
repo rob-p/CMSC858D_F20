@@ -12,11 +12,11 @@ Here you'll find an overview of the course — the material I expect we'll cover
 
 ## Logistics
 
-* Course Website : [https://rob-p.github.io/CMSC858D/](https://rob-p.github.io/CMSC858D/)
+* Course Website : [https://rob-p.github.io/CMSC858D_F20/](https://rob-p.github.io/CMSC858D_F20/)
 * Instructor : Rob Patro
 * Office hours: by appointment
-* Class location: Atlantic Building 2416
-* Class days/time: Tuesdays/Thursdays 3:30-4:45 pm
+* Class location: wherever you have your device
+* Class days/time: Tuesdays/Thursdays 2:00-3:15 pm
 
 ## Course Content
 
