@@ -24,9 +24,8 @@ Here you'll find an overview of the course — the material I expect we'll cover
 
 **Genomics algorithms, data structures, and statisitcal models**:
 
-- [Genome Scale Algorithm Design](http://www.cs.helsinki.fi/group/gsa/book/) (Mäkinen, Belazzougui, Cunial, Tomescu 2015)
 - [Bioinformatics Algorithms: An Active Learning Approach](https://secure.mybookorders.com/Orderpage/1402) (Pevzner and Compeau, 2018)
-- [Biological Sequence Analysis](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713) (Durbin, Eddy, Krogh, Mitchinson 1998)
+- [Genome Scale Algorithm Design](http://www.cs.helsinki.fi/group/gsa/book/) (Mäkinen, Belazzougui, Cunial, Tomescu 2015)
 
 **Basics of algorithms and data structures**:
 
@@ -103,24 +102,24 @@ The following is a planned schedule of the material we will cover in the course,
 
 ## Course Resources
 
-The course website is [https://rob-p.github.io/CMSC858D/](https://rob-p.github.io/CMSC858D/), which is probably where you are reading this right now.
+The course website is [https://rob-p.github.io/CMSC858D_F20/](https://rob-p.github.io/CMSC858D_F20/), which is probably where you are reading this right now.
 
-The course has a Piazza page, and you can enroll [here](https://piazza.com/umd/fall2019/cmsc858d).  I encourage you to interact with each other, raise questions, and discuss course topics using Piazza.  This is also the best place to raise general questions about material we cover in the course (as opposed to e.g. an e-mail), since other students can see the response and ask follow-up questions.  This helps to reduce redundancy in the answering of questions.
+The course has a Piazza page, and you can enroll [here](piazza.com/umd/fall2020/cmsc858d).  I encourage you to interact with each other, raise questions, and discuss course topics using Piazza.  This is also the best place to raise general questions about material we cover in the course (as opposed to e.g. an e-mail), since other students can see the response and ask follow-up questions.  This helps to reduce redundancy in the answering of questions.
 
-Assignments will be posted and collected [via ELMS](https://myelms.umd.edu/courses/1272837).
+Assignments will be posted and collected [via ELMS](https://umd.instructure.com/courses/1286324).
 
 ## Course Policies
 
 **Coursework and grading**: The coursework will consist of 2-3 homework projects, a final project, and a final exam. 
 Students will have an opportunity to select their final project in mid Oct.; there will be a few projects to choose from, and students will also be allowed to propose their own projects.  The projects are to be done either alone, or in teams of 2. For the final project,  the deliverables will consist of runnable code (including a link to a version-controled repository containing the source), and a short (4-5 page) research-style paper describing the work you've done. The breakdown of weights for these different assignments will be as follows:
 
-- Homeworks — 20%
+- Homeworks — 25%
 - Final Project — 50%
-- Final Exam — 30%
+- Final Exam — 25%
 
 **Regrade policy**: All requests to re-grade, re-check, or re-mark an assignment or exam question **must be made in writing**. When the assignment is re-graded, it will be re-checked in its entirety. This means that *it is possible to lose points on other problems if they were graded incorrectly or too leniently the first time*. Therefore, I urge you to thoroughly consider each regrade request you make.
 
-**Excused Absences**: If you miss a class for a medical or health-related reason, please provide me with a record of this in writing or via e-mail (I do not need to know the specifics, just the date of your absence and that it was for a medical or health reason). If, for a health-related or medical reason, you will miss two or more consecutive classes, or will miss class on a recurring basis, or were unable to meet a particular academic obligation of this course, I will require a written note from the Student Health Service or a healthcare provider documenting the range of dates for which you were unable to meet your academic obligations. This note need not contain any diagnostic information. If you will miss any classes or scheduled exams as a result of religious observances, you must submit this information to me, in writing, within the first two weeks of the semester to make necessary accommodations to complete the work that will be missed.
+**Excused Absences**: If you miss a class for a medical or health-related reason, please provide me with a record of this in writing or via e-mail (I do not need to know the specifics, just the date of your absence and that it was for a medical or health reason). If, for a health-related or medical reason, you will miss multiple consecutive classes, or will miss class on a recurring basis, or if you were unable to meet a particular academic obligation of this course, you must reach out to me as soon as is possible to determine if it will prevent you from completing the course succesfully. If you will miss any classes or have any relevant conflicts as a result of religious observances, you must submit this information to me, in writing, within the first two weeks of the semester to make necessary accommodations to complete the work that will be missed.
 
 **Final Grades**: The grade you receive in this class will reflect, as much as possible, the degree to which you have mastered the necessary material. How much somebody “needs” an ‘A’ will have no bearing on whether or not (s)he receives an ‘A’, other than how this need or desire is reflected in the work that (s)he does. I want everyone to do well in this course, and will make every reasonable effort to help you understand the material as well as possible. However, barring errors in the grading of assignments, the grades you receive at the end of the semester are final, and I will not alter them for personal or non-academic reasons, *so please do not ask me to*!
 
@@ -154,7 +153,7 @@ Any student eligible for and requesting reasonable academic accommodations due t
 
 Any student who needs to be excused for an absence from a single lecture, recitation, or lab due to a medically necessitated absence shall make a reasonable attempt to inform the instructor of his/her illness prior to the class. Upon returning to the class, present their instructor with a self-signed note attesting to the date of their illness.  Each note must contain an acknowledgment by the student that the information provided is true and correct.  Providing false information to University officials is prohibited under Part 9(i) of the Code of Student Conduct (V-1.00(B) University of Maryland Code of Student Conduct) and may result in disciplinary action.
 
-Self-documentation may not be used for major grading events (e.g., exams, project deadlines, etc.).  Any student who needs to be excused for a prolonged absence (2 or more consecutive class meetings), or for a Major Scheduled Grading Event, must provide written documentation of the illness from the Health Center or from an outside health care provider. This documentation must verify dates of treatment and indicate the timeframe that the student was unable to meet academic responsibilities. In addition, it must contain the name and phone number of the medical service provider to be used if verification is needed. No diagnostic information will ever be requested.
+Self-documentation may not be used for major grading events (e.g., exams, project deadlines, etc.).  Any student who needs to be excused for a prolonged absence (2 or more consecutive class meetings), or for a Major Scheduled Grading Event, must provide written documentation of the illness from the Health Center or from an outside health care provider. This documentation must verify dates of treatment and indicate the timeframe that the student was unable to meet academic responsibilities. In addition, it must contain the name and phone number of the medical service provider to be used if verification is needed. No diagnostic information will ever be requested. **Note** : we will adopt any university-sanctioned relevant modifications to the standard policy in light of the COVID-19 pandemic.
 
 ### Accomodations for religious reasons
 
