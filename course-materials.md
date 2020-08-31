@@ -53,51 +53,51 @@ The main objective of this course will be to provide an in-depth understanding o
 
 ## Course  Schedule
 
-The following is a planned schedule of the material we will cover in the course, as well as when we will cover it.  The mapping between content and dates below _is subject to change_ depending on how quickly we move.  The current schedule is quite optimistic, and I would like to cover all of this material.  However, it's much more important that the class understand the material we cover than that we get to all of the topics I'd like to discuss.  Thus, the time we spend on certain topics and the precise list of topics we cover is subject to change throughout the semester depending on our pace.
+The following is a planned schedule of the material we will cover in the course, as well as when we will cover it.  The mapping between content and dates below _is subject to change_ and revision depending on how quickly we move.  The current schedule is quite optimistic, and I would like to cover all of this material.  However, it's much more important that the class understand the material we cover than that we get to all of the topics I'd like to discuss.  Thus, the time we spend on certain topics and the precise list of topics we cover is subject to change throughout the semester depending on our pace.
 
-- Week of Aug 27.
+- Week 1
     - Course introduction, logistics & goals
     - Basic Biology & Biotechnology (e.g. short and long-read sequencing)
-- Week of Sept 3.
+- Week 2
     - Basic indexing & search in genomic texts, primitives of search (k-mers, MEMs, SMEMs, MMPs)
     - Suffix Array, Enhanced Suffix Arrays, the FMD index
-- Week of Sept 10.
+- Week 3
     - More advanced full-text indices; hierarchical FM-index, graph FM-index
     - Applications of full-text indices in sequence alignment (Bowtie2, HISAT2)
-- Week of Sept 17.
+- Week 4
     - Basics of k-merology; k-mers, spaced-seeds, minimizers and minimizer schemes
     - Data structures for k-mer counting (hash tables, bloom filters & quotient filters)
-- Week of Sept 24.
+- Week 5
    - Methods for K-mer counting (exact and approximate) and cardinality estimation (ntCard, squeakr, KMC2)
    - K-mer-based indexing; inverted indices and compression of "posting lists"; indexing based on minimizers
-- Week of Oct 1.
+- Week 6
     - Succinct data structure primitives (rank and select)
     - deBruijn graph representations & fundamental space bounds
     - The compacted deBruijn graph as a reference index & compact representation
-- Week of Oct 8.
+- Week 7
     - Applications of k-mer-based indices in sequence alignment & related tasks (Subread aligner, minimap2, pufferfish, Kraken-uniq)
-- Week of Oct 15.
+- Week 8
     - Large-scale sequence search; goals and computational challenges
     - The Sequence Bloom Tree and related variants (Split Sequence Bloom Tree & HowDe SBT)
-- Week of Oct 22.
+- Week 9
     - Large-scale sequence search (continued)
     - BIGSI & SeqOthello
-- Week of Oct 29.
+- Week 10
     - Large-scale sequence search (continued)
     - Mantis, and color compression via the MST
-- Week of Nov 5. **Note**: No class Nov 7.
+- Week 11
     - Transcriptome analysis via RNA-seq
     - Transcriptome assembly (genome guided and *de novo*);
-- Week of Nov 12.
+- Week 12
     - Gene expression estimation via RNA-seq
     - Statistical modeling of RNA-seq data for transcript abundance estimation
-- Week of Nov 19.
+- Week 13
     - Methods for statistical inference in abundance estimation; the EM algorithm, VBEM algorithm and Gibbs Sampling
     - Assessing quantification uncertainty
     - Modeling and correcting for technical bias in RNA-seq data
-- Week of Nov 26. **Note**: only 1 class this week b/c Nov 28. is Thanksgiving
+- Week 14
     - Basics of differential expression testing in RNA-seq
-- Week of Dec 3.
+- Week 15
     - Recent biotechnology and computational challenges in single-cell transcriptomics
 
 ## Course Resources
@@ -119,7 +119,7 @@ Students will have an opportunity to select their final project in mid Oct.; the
 
 **Regrade policy**: All requests to re-grade, re-check, or re-mark an assignment or exam question **must be made in writing**. When the assignment is re-graded, it will be re-checked in its entirety. This means that *it is possible to lose points on other problems if they were graded incorrectly or too leniently the first time*. Therefore, I urge you to thoroughly consider each regrade request you make.
 
-**Excused Absences**: If you miss a class for a medical or health-related reason, please provide me with a record of this in writing or via e-mail (I do not need to know the specifics, just the date of your absence and that it was for a medical or health reason). If, for a health-related or medical reason, you will miss multiple consecutive classes, or will miss class on a recurring basis, or if you were unable to meet a particular academic obligation of this course, you must reach out to me as soon as is possible to determine if it will prevent you from completing the course succesfully. If you will miss any classes or have any relevant conflicts as a result of religious observances, you must submit this information to me, in writing, within the first two weeks of the semester to make necessary accommodations to complete the work that will be missed.
+**Excused Absences**:  Any student who needs to be excused for an absence from a single lecture, recitation, or lab due to a medically necessitated absence shall make a reasonable attempt to inform the instructor of his/her illness prior to the class. Upon returning to the class, present their instructor with a self-signed note attesting to the date of their illness.  Each note must contain an acknowledgment by the student that the information provided is true and correct.  Providing false information to University officials is prohibited under Part 9(i) of the Code of Student Conduct (V-1.00(B) University of Maryland Code of Student Conduct) and may result in disciplinary action.
 
 **Final Grades**: The grade you receive in this class will reflect, as much as possible, the degree to which you have mastered the necessary material. How much somebody “needs” an ‘A’ will have no bearing on whether or not (s)he receives an ‘A’, other than how this need or desire is reflected in the work that (s)he does. I want everyone to do well in this course, and will make every reasonable effort to help you understand the material as well as possible. However, barring errors in the grading of assignments, the grades you receive at the end of the semester are final, and I will not alter them for personal or non-academic reasons, *so please do not ask me to*!
 
@@ -148,12 +148,6 @@ This course adopts the following policy from the CMSC Course Administration Guid
 ### Accessibility and Disability Service, ADS
 
 Any student eligible for and requesting reasonable academic accommodations due to a disability is requested to provide, to the instructor in office hours, a letter of accommodation from the Office of Accessibility and Disability Services (ADS) within the first two weeks of the semester. If for some reason ADS accommodation is only granted to a student mid-semester, it applies to coursework from then on, not retroactively.
-
-### Excused Absences
-
-Any student who needs to be excused for an absence from a single lecture, recitation, or lab due to a medically necessitated absence shall make a reasonable attempt to inform the instructor of his/her illness prior to the class. Upon returning to the class, present their instructor with a self-signed note attesting to the date of their illness.  Each note must contain an acknowledgment by the student that the information provided is true and correct.  Providing false information to University officials is prohibited under Part 9(i) of the Code of Student Conduct (V-1.00(B) University of Maryland Code of Student Conduct) and may result in disciplinary action.
-
-Self-documentation may not be used for major grading events (e.g., exams, project deadlines, etc.).  Any student who needs to be excused for a prolonged absence (2 or more consecutive class meetings), or for a Major Scheduled Grading Event, must provide written documentation of the illness from the Health Center or from an outside health care provider. This documentation must verify dates of treatment and indicate the timeframe that the student was unable to meet academic responsibilities. In addition, it must contain the name and phone number of the medical service provider to be used if verification is needed. No diagnostic information will ever be requested. **Note** : we will adopt any university-sanctioned relevant modifications to the standard policy in light of the COVID-19 pandemic.
 
 ### Accomodations for religious reasons
 
