@@ -1,18 +1,11 @@
 ---
 type: lecture
-date: 2018-09-16T8:00:00+4:30
-title: Sample Lecture
-tldr: "Short text to discribe what this lecture is about."
+date: 2020-09-01
+title: Welcome and Introduction
+tldr: "Why study computational genomics?"
 thumbnail: /static_files/presentations/lec.jpg
-published: false
+published: true
 links: 
-    - url: /static_files/presentations/lec.zip
-      name: notes
-    - url: /static_files/presentations/code.zip
-      name: codes
-    - url: https://google.com
+    - url: /static_files/presentations/F20_CMSC858D-Lec01.pdf
       name: slides
 ---
-**Suggested Readings:**
-- [Readings 1](http://example.com)
-- [Readings 2](http://example.com)
