@@ -9,6 +9,6 @@ due_event:
     description: 'Reading #1 due'
 ---
 Readings about efficient variants of pairwise alignment.  Please read 
-[this paper](http://rob-p.github.io/CMSC8585D_F20/static_files/readings/meyers_86.pdf) by Meyers and
-[this paper](http://rob-p.github.io/CMSC8585D_F20/static_files/readings/chao_92.pdf) by Chao et al.
+[this paper](https://rob-p.github.io/CMSC8585D_F20/static_files/readings/meyers_86.pdf) by Meyers and
+[this paper](https://rob-p.github.io/CMSC8585D_F20/static_files/readings/chao_92.pdf) by Chao et al.
 
