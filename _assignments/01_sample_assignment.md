@@ -1,14 +1,13 @@
 ---
 type: assignment
 date: 2018-09-26T4:00:00+4:30
-title: 'Assignment #1 - Sample Assignment'
-pdf: /static_files/assignments/asg.pdf
-attachment: /static_files/assignments/asg.zip
-solutions: /static_files/assignments/asg_solutions.pdf
-published: false
+title: 'Reading #1 - Efficient Pairwise Alignment'
+pdf: /static_files/readings/meyers_86.pdf
+pdf: /static_files/readings/chao_92.pdf
+published: true
 due_event: 
     type: due
-    date: 2018-11-13T23:59:00+3:30
-    description: 'Assignment #1 due'
+    date: 2020-09-10T23:59:00+3:30
+    description: 'Reading #1 due'
 ---
-This is a sample assignment.
+Readings about efficient variants of pairwise alignment.
