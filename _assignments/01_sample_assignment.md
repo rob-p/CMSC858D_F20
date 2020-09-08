@@ -2,7 +2,6 @@
 type: assignment
 date: 2018-09-26T4:00:00+4:30
 title: 'Reading #1 - Efficient Pairwise Alignment'
-pdf: /static_files/readings/meyers_86.pdf
 published: true
 due_event: 
     type: due
