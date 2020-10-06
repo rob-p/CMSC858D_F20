@@ -13,7 +13,7 @@ due_event:
 
 # CMSC858D Homework 1 : Implementing some succinct primitives and FM-index search
 
-This homework consists of 3 programming tasks.  The programming tasks build upon each other, and so should be implemented **in order**.  Each programming tasks consists of (1) an implementation and (2) a writeup.  Each implementation should be done in a separate directory, along with a README containing instructions for building (if necessary) and using the implementation (e.g. a description of the library interface, and the command-line interace if it exists).  In addition to the code you submit directly, you should also make a GitHub repository to which you post the code, and you should link to this in the README.
+This homework is due by **11:59PM ET on Thurs. Oct 22**.  It consists of 3 programming tasks with associated writeup.  The programming tasks build upon each other, and so should be implemented **in order**.  Each programming tasks consists of (1) an implementation and (2) a writeup.  Each implementation should be done in a separate directory, along with a README containing instructions for building (if necessary) and using the implementation (e.g. a description of the library interface, and the command-line interace if it exists).  In addition to the code you submit directly, you should also make a GitHub repository to which you post the code, and you should link to this in the README.
 
 The writeups for all three tasks should be put into a single document (either a PDF or a Word Document).  Each writeup should include the following **3** components:
     
