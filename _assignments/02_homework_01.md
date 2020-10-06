@@ -7,7 +7,7 @@ title: 'Homework 1'
 #solutions: /static_files/assignments/asg_solutions.pdf
 due_event: 
     type: due
-    date: 2020-10-22
+    date: 2020-10-22 23:59:00
     description: 'Homework #1 due'
 ---
 
