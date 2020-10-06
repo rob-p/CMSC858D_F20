@@ -7,11 +7,11 @@ title: 'Homework 1'
 #solutions: /static_files/assignments/asg_solutions.pdf
 due_event: 
     type: due
-    date: 2020-10-22T23:59:00+3:30
+    date: 2020-10-22
     description: 'Homework #1 due'
 ---
 
-# CMSC858D Homework 1 : Implementing some succinct primitives
+# CMSC858D Homework 1 : Implementing some succinct primitives and FM-index search
 
 This homework consists of 3 programming tasks.  The programming tasks build upon each other, and so should be implemented **in order**.  Each programming tasks consists of (1) an implementation and (2) a writeup.  Each implementation should be done in a separate directory, along with a README containing instructions for building (if necessary) and using the implementation (e.g. a description of the library interface, and the command-line interace if it exists).  In addition to the code you submit directly, you should also make a GitHub repository to which you post the code, and you should link to this in the README.
 
