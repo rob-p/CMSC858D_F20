@@ -5,7 +5,10 @@ title: 'Homework 1'
 #pdf: /static_files/assignments/asg.pdf
 #attachment: /static_files/assignments/asg.zip
 #solutions: /static_files/assignments/asg_solutions.pdf
-due: 2020-10-22
+due_event: 
+    type: due
+    date: 2020-10-22T23:59:00+3:30
+    description: 'Homework #1 due'
 ---
 
 # CMSC858D Homework 1 : Implementing some succinct primitives
