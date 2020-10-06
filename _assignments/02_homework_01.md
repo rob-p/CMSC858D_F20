@@ -82,8 +82,8 @@ If you do end up deriving some piece of your code from a source you encounter (e
 
  **Writeup**: For this programming task, test your implementation by invoking it for bit vectors of various sizes, and plotting the bit-vector size (say N) versus the time requried to do some fixed number of select operations.  Also, plot the bit-vector size (say N) versus the result of calling the `overhead()` function.  Does your implementation match the expected theoretical bounds?  _If you feel ambitious_, you can additionally implement a constant-time bit-vector select, though this is not required.
  
- 
- ## Task 3 — Bitvector-based occ table & backward search.
+
+## Task 3 — Bitvector-based occ table and backward search.
 
  Implement a bitvector-based occ table and a basic backward search over the FM-index of some text `T`.  For this task, you do _not_ need to implement the algorithm for performing the BWT 
  transform yourself (though you are free to if you wish).  Also, you will be implementing the "basic" backward search which only needs to support the `occurrence` query.  That is, 
