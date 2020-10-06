@@ -1,11 +1,11 @@
 ---
 type: assignment
-date: 2020-10-
+date: 2020-10-06
 title: 'Homework 1'
 #pdf: /static_files/assignments/asg.pdf
 #attachment: /static_files/assignments/asg.zip
 #solutions: /static_files/assignments/asg_solutions.pdf
-due: 2019-10-29
+due: 2020-10-22
 ---
 
 # CMSC858D Homework 1 : Implementing some succinct primitives
