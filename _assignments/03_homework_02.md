@@ -11,6 +11,8 @@ due_event:
     description: 'Homework #2 due'
 ---
 
+**Due: Tues Dec 1, 2020 (11:59 PM)**  
+
 # CMSC858D Homework 2 : Implementing a minimum perfect hash function
 
 This homework is due by **11:59PM ET on Tues. Dec 1**.  It consists of 1 programming tasks with an associated writeup.  The programming task builds upon the rank and select primitives that you implemented last time.  **However, you need not use your previous implementation of a rank and select enabled bit-vector; you can use any existing implementation for this functionality (or roll your own)**.  The implementation should include a README containing instructions for building and using the implementation (e.g. a description of the library interface, and the command-line interace).  In addition to the code you submit directly, you should also make a GitHub repository to which you post the code, and you should link to this in the README.
